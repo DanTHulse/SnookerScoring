@@ -23,6 +23,6 @@ The notation is imputted by the user using their keyboard, and if I feel like it
 
 An example of a game could look like this (the program will automatically add the delimiters):
 
-{P:Alice;P:Bob;Fr:11;C;P;P;1;7;F:4;.....;EoF;EoM}
+``P:Alice;P:Bob;Fr:11;C;P;P;1;7;F:4;.....;EoF;EoM``
 
 For a 11 frame game between Alice & Bob, with Alice going first.
